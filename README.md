@@ -1,0 +1,1 @@
+# smarta_bi_architecture
